@@ -1,0 +1,4 @@
+pandas
+openpyxl
+pymupdf
+# For legacy .xls files, also install: xlrd
